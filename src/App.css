@@ -47,8 +47,19 @@
 }
 
 .lost {
-    height: calc(50vh - 60px);
+    height: 350px;
     padding: 30px;
     margin-left: 50px;
-    background-color: lightgray;
+    background-color: #e6a4a4;
+}
+
+.restart{
+    width: 120px;
+    height: 60px;
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 50%;
+    background-color: #c9ff8e;
+    border: none;
+    margin-bottom: 10px;
 }
